@@ -24,7 +24,7 @@ DESC
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'IPaPa' => 'ipapamagic@gmail.com' }
-s.source           = { :git => 'https://github.com/ipapamagic/IPaSecurity.git', :tag => 'v1.0'}
+s.source           = { :git => 'https://github.com/ipapamagic/IPaSecurity.git', :tag => s.version.to_s}
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 s.ios.deployment_target = '9.3'
@@ -39,4 +39,5 @@ s.source_files = 'IPaSecurity/Classes/*.swift'
 # s.frameworks = 'UIKit', 'MapKit'
 s.dependency 'IDZSwiftCommonCrypto', '~> 0.9.0'
 s.dependency 'IPaLog'
+s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.0' }
 end
