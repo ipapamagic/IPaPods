@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint IPaActivityIndicator.podspec' to ensure this is a
+# Be sure to run `pod lib lint IPaIndicator.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'IPaActivityIndicator'
+  s.name             = 'IPaIndicator'
   s.version          = '1.2'
   s.summary          = 'ActivityIndicator for progress'
 
@@ -21,19 +21,19 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/ipapamagic/IPaActivityIndicator'
+  s.homepage         = 'https://github.com/ipapamagic/IPaIndicator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'IPa Chen' => 'ipapamagic@gmail.com' }
-  s.source           = { :git => 'https://github.com/ipapamagic/IPaActivityIndicator.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ipapamagic/IPaIndicator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'IPaActivityIndicator/Classes/**/*'
+  s.source_files = 'IPaIndicator/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'IPaActivityIndicator' => ['IPaActivityIndicator/Assets/*.png']
+  #   'IPaIndicator' => ['IPaIndicator/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
