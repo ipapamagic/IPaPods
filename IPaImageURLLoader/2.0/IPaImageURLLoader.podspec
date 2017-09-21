@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint IPaAVCamera.podspec' to ensure this is a
+# Be sure to run `pod lib lint IPaImageURLLoader.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'IPaAVCamera'
+  s.name             = 'IPaImageURLLoader'
   s.version          = '2.0'
-  s.summary          = 'A short description of IPaAVCamera.'
+  s.summary          = 'Easy loading Image with url management,can cache Image, and support photo kit'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,27 +17,25 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'Include IPaImageURLButton , IPaImageURLView, set the URL to download image and cache automatically'
 
-  s.homepage         = 'https://github.com/ipapamagic/IPaAVCamera'
+  s.homepage         = 'https://github.com/ipapamagic/IPaImageURLLoader'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ipapamagic@gmail.com' => 'ipapamagic@gmail.com' }
-  s.source           = { :git => 'https://github.com/ipapamagic/IPaAVCamera.git', :tag => s.version.to_s }
+  s.author           = { 'IPa Chen' => 'ipapamagic@gmail.com' }
+  s.source           = { :git => 'https://github.com/ipapamagic/IPaImageURLLoader.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'IPaAVCamera/Classes/**/*'
+  s.source_files = 'IPaImageURLLoader/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'IPaAVCamera' => ['IPaAVCamera/Assets/*.png']
+  #   'IPaImageURLLoader' => ['IPaImageURLLoader/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
-    s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }
+  s.dependency 'IPaSecurity'
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }
 end
