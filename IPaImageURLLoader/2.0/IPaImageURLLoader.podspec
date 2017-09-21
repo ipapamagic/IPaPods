@@ -37,5 +37,7 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'IPaSecurity'
-  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }
+    s.xcconfig = {
+        "SWIFT_VERSION" => "4.0"
+    }
 end

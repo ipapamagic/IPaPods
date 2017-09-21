@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint IPaImageTool.podspec' to ensure this is a
+# Be sure to run `pod lib lint IPaNetworkState.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'IPaImageTool'
+  s.name             = 'IPaNetworkState'
   s.version          = '2.0'
-  s.summary          = 'Some UIImage modifiy fuction.'
+  s.summary          = 'A short description of IPaNetworkState.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,25 +21,25 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/ipapamagic/IPaImageTool'
+  s.homepage         = 'https://github.com/ipapamagic/IPaNetworkState'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'IPa Chen' => 'ipapamagic@gmail.com' }
-  s.source           = { :git => 'https://github.com/ipapamagic/IPaImageTool.git', :tag => s.version.to_s }
+  s.author           = { 'ipapamagic@gmail.com' => 'ipapamagic@gmail.com' }
+  s.source           = { :git => 'https://github.com/ipapamagic/IPaNetworkState.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'IPaImageTool/Classes/**/*'
+  s.source_files = 'IPaNetworkState/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'IPaImageTool' => ['IPaImageTool/Assets/*.png']
+  #   'IPaNetworkState' => ['IPaNetworkState/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
     s.xcconfig = {
-        "SWIFT_VERSION" => "4.0"
+        "SWIFT_VERSION" => "4.0",
     }
 end

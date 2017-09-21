@@ -42,6 +42,6 @@ TODO: Add long description of the pod here.
     s.dependency 'IPaLog'
     s.dependency 'IPaNetworkState'
     s.xcconfig = {
-        "SWIFT_VERSION" => "3.0"
+        "SWIFT_VERSION" => "4.0"
     }
 end
