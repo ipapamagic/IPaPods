@@ -40,6 +40,7 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
     s.xcconfig = {
-        "SWIFT_VERSION" => "4.0"
+        "SWIFT_VERSION" => "4.0",
+        "SWIFT_SWIFT3_OBJC_INFERENCE" => "off"
     }
 end

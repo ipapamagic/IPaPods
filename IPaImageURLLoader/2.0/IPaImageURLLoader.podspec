@@ -38,6 +38,7 @@ Pod::Spec.new do |s|
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'IPaSecurity'
     s.xcconfig = {
-        "SWIFT_VERSION" => "4.0"
+        "SWIFT_VERSION" => "4.0",
+        "SWIFT_SWIFT3_OBJC_INFERENCE" => "off"
     }
 end

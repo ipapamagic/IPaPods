@@ -65,6 +65,7 @@ CMD
     s.xcconfig = {
         "SWIFT_VERSION" => "4.0",
         "SWIFT_INCLUDE_PATHS" => "${PODS_ROOT}/IPaSecurity/Frameworks/$(PLATFORM_NAME)",
-        "FRAMEWORK_SEARCH_PATHS" => "${PODS_ROOT}/IPaSecurity/Frameworks/$(PLATFORM_NAME)"
+        "FRAMEWORK_SEARCH_PATHS" => "${PODS_ROOT}/IPaSecurity/Frameworks/$(PLATFORM_NAME)",
+        "SWIFT_SWIFT3_OBJC_INFERENCE" => "off"
     }
 end
