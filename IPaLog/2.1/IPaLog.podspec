@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'IPaLog'
-  s.version          = '2.0'
+  s.version          = '2.1'
   s.swift_version    = '4.1'
   s.summary          = 'simple Log script,can work with Crashlytics by adding define IPaLogCL'
   s.homepage         = 'https://github.com/ipapamagic/IPaLog'
