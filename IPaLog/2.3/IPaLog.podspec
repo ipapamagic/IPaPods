@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { 'IPaPa' => 'ipapamagic@gmail.com' }
   s.source           = { :git => 'https://github.com/ipapamagic/IPaLog.git', :tag => s.version.to_s}
-
+  s.swift_version    = '5.0'
 
   s.requires_arc     = true
 
