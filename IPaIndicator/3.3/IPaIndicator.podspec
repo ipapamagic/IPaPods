@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'IPaIndicator/Classes/**/*'
-  
+  s.dependency 'IPaDownloadManager', '~> 1.3'
   # s.resource_bundles = {
   #   'IPaIndicator' => ['IPaIndicator/Assets/*.png']
   # }
