@@ -28,7 +28,7 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/ipapamagic/IPaUIKitHelper.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '13.0'
 
   
   s.dependency 'IPaLog', '~> 3.0'
@@ -65,5 +65,13 @@ TODO: Add long description of the pod here.
   end
   s.subspec 'IPaPickerUI' do |sp|
     sp.source_files = 'IPaUIKitHelper/Classes/IPaPickerUI/**/*'
+  end
+  s.subspec 'IPaIndicator' do |sp|
+    sp.source_files = 'IPaUIKitHelper/Classes/IPaIndicator/**/*'
+  end
+  s.subspec 'IPaProgressIndicator' do |sp|
+      sp.source_files = 'IPaUIKitHelper/Classes/IPaProgressIndicator/**/*'
+      sp.dependency 'IPaDownloadManager', '~> 1.3'
+      sp.dependency 'IPaURLResourceUI', '~> 5.3'
   end
 end
