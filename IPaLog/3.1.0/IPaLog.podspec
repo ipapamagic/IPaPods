@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'IPaLog'
-  s.version          = '3.1'
+  s.version          = '3.1.0'
   s.summary          = 'simple Log script ,print log when debug'
   s.homepage         = 'https://github.com/ipapamagic/IPaLog'
   s.license          = 'MIT'
@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
 
   s.requires_arc     = true
 
-  s.source_files = 'Sources/IPaLog.swift'
+  s.source_files = 'Sources/IPaLog/IPaLog.swift'
 
 end

@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint IPaDownloadManager.podspec' to ensure this is a
+# Be sure to run `pod lib lint IPaPageController.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'IPaDownloadManager'
-  s.version          = '1.4.0'
-  s.summary          = 'A short description of IPaDownloadManager.'
+  s.name             = 'IPaPageController'
+  s.version          = '2.1.0'
+  s.summary          = 'A short description of IPaPageController.'
   s.swift_version    = '5.0'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,29 +17,24 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'page controller for pagination data manager'
 
-  s.homepage         = 'https://github.com/ipapamagic/IPaDownloadManager'
+  s.homepage         = 'https://github.com/ipapamagic/IPaPageController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ipapamagic@gmail.com' => 'ipapamagic@gmail.com' }
-  s.source           = { :git => 'https://github.com/ipapamagic/IPaDownloadManager.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ipapamagic/IPaPageController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '10.0'
 
-  s.source_files = 'Sources/IPaDownloadManager/**/*'
+  s.source_files = 'Sources/IPaPageController/**/*'
   
   # s.resource_bundles = {
-  #   'IPaDownloadManager' => ['IPaDownloadManager/Assets/*.png']
+  #   'IPaPageController' => ['IPaPageController/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-  s.dependency 'IPaLog', '~> 3.1.0'
-  s.dependency 'IPaSecurity', '~> 4.1.0'
-
 end
