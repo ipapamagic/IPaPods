@@ -43,7 +43,7 @@ TODO: Add long description of the pod here.
     s.subspec 'IPaIndicator' do | sp |
             sp.source_files = 'Sources/IPaIndicator/**/*'
             sp.dependency 'IPaDownloadManager', '~> 1.4.0'
-            sp.dependency 'IPaURLResourceUI', '~>5.4.0'
+            sp.dependency 'IPaURLResourceUI', '~> 5.4.0'
     end
     s.subspec 'IPaToast' do | sp |
             sp.source_files = 'Sources/IPaToast/**/*'
