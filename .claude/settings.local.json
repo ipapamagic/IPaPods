@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.github.com)",
+      "Bash(python3:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl:*)",
+      "Bash(swift package describe:*)",
+      "Bash(for repo in IPaLog IPaUIKitHelper IPaImageTool IPaFileCache IPaDownloadManager IPaURLResourceUI IPaSwiftUIHelper IPaImagePreviewer IPaSwiftUIView IPaSecurity IPaIndicator IPaImageURLLoader)",
+      "Bash(do echo \"Testing $repo...\")",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(swift package-collection:*)",
+      "Bash(chmod:*)",
+      "Bash(./test_single_package.swift)",
+      "Bash(./debug_collection.swift)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

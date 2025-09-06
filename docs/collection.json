@@ -1,0 +1,68 @@
+{
+  "formatVersion": "1.0",
+  "name": "IPaPods Collection",
+  "overview": "A collection of iOS utility libraries and frameworks developed by ipapamagic - SPM Compatible",
+  "keywords": [
+    "ios",
+    "swift",
+    "utilities",
+    "ui",
+    "networking",
+    "image-processing",
+    "swiftui"
+  ],
+  "generatedAt": "2025-09-06T01:45:00Z",
+  "generatedBy": {
+    "name": "ipapamagic"
+  },
+  "packages": [
+    {
+      "url": "https://github.com/ipapamagic/IPaLog.git",
+      "summary": "Logging utilities and debugging tools"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaUIKitHelper.git",
+      "summary": "UIKit utility functions and extensions"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaImageTool.git",
+      "summary": "Image processing and manipulation tools"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaFileCache.git",
+      "summary": "File caching and management system"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaDownloadManager.git",
+      "summary": "File download management utilities"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaURLResourceUI.git",
+      "summary": "URL resource management UI components"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaSwiftUIHelper.git",
+      "summary": "SwiftUI utility functions and extensions"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaImagePreviewer.git",
+      "summary": "Image preview and gallery components"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaSwiftUIView.git",
+      "summary": "Custom SwiftUI view components"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaSecurity.git",
+      "summary": "Security utilities and encryption tools"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaIndicator.git",
+      "summary": "Loading indicators and progress views"
+    },
+    {
+      "url": "https://github.com/ipapamagic/IPaImageURLLoader.git",
+      "summary": "Asynchronous image loading from URLs"
+    }
+  ]
+}

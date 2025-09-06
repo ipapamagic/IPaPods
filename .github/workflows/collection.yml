@@ -1,0 +1,23 @@
+name: Validate Package Collection
+
+on:
+  push:
+    paths:
+      - 'collection.json'
+  pull_request:
+    paths:
+      - 'collection.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Validate JSON
+        run: |
+          python3 -m json.tool collection.json > /dev/null
+          echo "✅ JSON is valid"
+      - name: Set correct content type
+        run: |
+          echo "application/json" > .gitattributes
+          echo "collection.json text eol=lf" >> .gitattributes
