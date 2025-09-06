@@ -1,0 +1,4 @@
+[submodule "temp-collection-generator"]
+	path = temp-collection-generator
+	url = https://github.com/swiftlang/swift-package-collection-generator.git
+	branch = 5.10

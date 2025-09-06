@@ -1,68 +1,5838 @@
 {
-  "formatVersion": "1.0",
-  "name": "IPaPods Collection",
-  "overview": "A collection of iOS utility libraries and frameworks developed by ipapamagic - SPM Compatible",
-  "keywords": [
+  "formatVersion" : "1.0",
+  "generatedAt" : "2025-09-07T03:44:53Z",
+  "generatedBy" : {
+    "name" : "ipapamagic"
+  },
+  "keywords" : [
     "ios",
     "swift",
-    "utilities",
-    "ui",
-    "networking",
-    "image-processing",
-    "swiftui"
+    "utilities"
   ],
-  "generatedAt": "2025-09-06T01:45:00Z",
-  "generatedBy": {
-    "name": "ipapamagic"
-  },
-  "packages": [
+  "name" : "IPaPods Collection",
+  "overview" : "A collection of iOS utility libraries and frameworks developed by ipapamagic",
+  "packages" : [
     {
-      "url": "https://github.com/ipapamagic/IPaLog.git",
-      "summary": "Logging utilities and debugging tools"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaAppleSignIn\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaAppleSignIn\/master\/README.md",
+      "summary" : "iOS utility library IPaAppleSignIn",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaAppleSignIn.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-apple-sign-in",
+              "products" : [
+                {
+                  "name" : "ipa-apple-sign-in",
+                  "targets" : [
+                    "ipa-apple-sign-in"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-apple-sign-in",
+                  "name" : "ipa-apple-sign-in"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaUIKitHelper.git",
-      "summary": "UIKit utility functions and extensions"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaAVCamera\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaAVCamera\/master\/README.md",
+      "summary" : "iOS utility library IPaAVCamera",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaAVCamera.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-av-camera",
+              "products" : [
+                {
+                  "name" : "ipa-av-camera",
+                  "targets" : [
+                    "ipa-av-camera"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-camera",
+                  "name" : "ipa-av-camera"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-av-camera",
+              "products" : [
+                {
+                  "name" : "ipa-av-camera",
+                  "targets" : [
+                    "ipa-av-camera"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-camera",
+                  "name" : "ipa-av-camera"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-av-camera",
+              "products" : [
+                {
+                  "name" : "ipa-av-camera",
+                  "targets" : [
+                    "ipa-av-camera"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-camera",
+                  "name" : "ipa-av-camera"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-av-camera",
+              "products" : [
+                {
+                  "name" : "ipa-av-camera",
+                  "targets" : [
+                    "ipa-av-camera"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-camera",
+                  "name" : "ipa-av-camera"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-av-camera",
+              "products" : [
+                {
+                  "name" : "ipa-av-camera",
+                  "targets" : [
+                    "ipa-av-camera"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-camera",
+                  "name" : "ipa-av-camera"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaImageTool.git",
-      "summary": "Image processing and manipulation tools"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaAVPlayer\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaAVPlayer\/master\/README.md",
+      "summary" : "iOS utility library IPaAVPlayer",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaAVPlayer.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-av-player",
+              "products" : [
+                {
+                  "name" : "ipa-av-player",
+                  "targets" : [
+                    "ipa-av-player"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-player",
+                  "name" : "ipa-av-player"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-av-player",
+              "products" : [
+                {
+                  "name" : "ipa-av-player",
+                  "targets" : [
+                    "ipa-av-player"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-player",
+                  "name" : "ipa-av-player"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-av-player",
+              "products" : [
+                {
+                  "name" : "ipa-av-player",
+                  "targets" : [
+                    "ipa-av-player"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-player",
+                  "name" : "ipa-av-player"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-av-player",
+              "products" : [
+                {
+                  "name" : "ipa-av-player",
+                  "targets" : [
+                    "ipa-av-player"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-av-player",
+                  "name" : "ipa-av-player"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaFileCache.git",
-      "summary": "File caching and management system"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaBLEKit\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaBLEKit\/master\/README.md",
+      "summary" : "iOS utility library IPaBLEKit",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaBLEKit.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-ble-kit",
+              "products" : [
+                {
+                  "name" : "ipa-ble-kit",
+                  "targets" : [
+                    "ipa-ble-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-ble-kit",
+                  "name" : "ipa-ble-kit"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-ble-kit",
+              "products" : [
+                {
+                  "name" : "ipa-ble-kit",
+                  "targets" : [
+                    "ipa-ble-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-ble-kit",
+                  "name" : "ipa-ble-kit"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-ble-kit",
+              "products" : [
+                {
+                  "name" : "ipa-ble-kit",
+                  "targets" : [
+                    "ipa-ble-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-ble-kit",
+                  "name" : "ipa-ble-kit"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaDownloadManager.git",
-      "summary": "File download management utilities"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaBlockOperation\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaBlockOperation\/master\/README.md",
+      "summary" : "iOS utility library IPaBlockOperation",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaBlockOperation.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-block-operation",
+              "products" : [
+                {
+                  "name" : "ipa-block-operation",
+                  "targets" : [
+                    "ipa-block-operation"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-block-operation",
+                  "name" : "ipa-block-operation"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.4.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-block-operation",
+              "products" : [
+                {
+                  "name" : "ipa-block-operation",
+                  "targets" : [
+                    "ipa-block-operation"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-block-operation",
+                  "name" : "ipa-block-operation"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-block-operation",
+              "products" : [
+                {
+                  "name" : "ipa-block-operation",
+                  "targets" : [
+                    "ipa-block-operation"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-block-operation",
+                  "name" : "ipa-block-operation"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-block-operation",
+              "products" : [
+                {
+                  "name" : "ipa-block-operation",
+                  "targets" : [
+                    "ipa-block-operation"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-block-operation",
+                  "name" : "ipa-block-operation"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-block-operation",
+              "products" : [
+                {
+                  "name" : "ipa-block-operation",
+                  "targets" : [
+                    "ipa-block-operation"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-block-operation",
+                  "name" : "ipa-block-operation"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-block-operation",
+              "products" : [
+                {
+                  "name" : "ipa-block-operation",
+                  "targets" : [
+                    "ipa-block-operation"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-block-operation",
+                  "name" : "ipa-block-operation"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaURLResourceUI.git",
-      "summary": "URL resource management UI components"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaCoreData\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaCoreData\/master\/README.md",
+      "summary" : "iOS utility library IPaCoreData",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaCoreData.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-core-data",
+              "products" : [
+                {
+                  "name" : "ipa-core-data",
+                  "targets" : [
+                    "ipa-core-data"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-core-data",
+                  "name" : "ipa-core-data"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaSwiftUIHelper.git",
-      "summary": "SwiftUI utility functions and extensions"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaCSVParser\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaCSVParser\/master\/README.md",
+      "summary" : "iOS utility library IPaCSVParser",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaCSVParser.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-csv-parser",
+              "products" : [
+                {
+                  "name" : "ipa-csv-parser",
+                  "targets" : [
+                    "ipa-csv-parser"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-csv-parser",
+                  "name" : "ipa-csv-parser"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.1.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-csv-parser",
+              "products" : [
+                {
+                  "name" : "ipa-csv-parser",
+                  "targets" : [
+                    "ipa-csv-parser"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-csv-parser",
+                  "name" : "ipa-csv-parser"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-csv-parser",
+              "products" : [
+                {
+                  "name" : "ipa-csv-parser",
+                  "targets" : [
+                    "ipa-csv-parser"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-csv-parser",
+                  "name" : "ipa-csv-parser"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-csv-parser",
+              "products" : [
+                {
+                  "name" : "ipa-csv-parser",
+                  "targets" : [
+                    "ipa-csv-parser"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-csv-parser",
+                  "name" : "ipa-csv-parser"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-csv-parser",
+              "products" : [
+                {
+                  "name" : "ipa-csv-parser",
+                  "targets" : [
+                    "ipa-csv-parser"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-csv-parser",
+                  "name" : "ipa-csv-parser"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-csv-parser",
+              "products" : [
+                {
+                  "name" : "ipa-csv-parser",
+                  "targets" : [
+                    "ipa-csv-parser"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-csv-parser",
+                  "name" : "ipa-csv-parser"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaImagePreviewer.git",
-      "summary": "Image preview and gallery components"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaDataPagerUI\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaDataPagerUI\/master\/README.md",
+      "summary" : "iOS utility library IPaDataPagerUI",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaDataPagerUI.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-data-pager-ui",
+              "products" : [
+                {
+                  "name" : "ipa-data-pager-ui",
+                  "targets" : [
+                    "ipa-data-pager-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-data-pager-ui",
+                  "name" : "ipa-data-pager-ui"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-data-pager-ui",
+              "products" : [
+                {
+                  "name" : "ipa-data-pager-ui",
+                  "targets" : [
+                    "ipa-data-pager-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-data-pager-ui",
+                  "name" : "ipa-data-pager-ui"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-data-pager-ui",
+              "products" : [
+                {
+                  "name" : "ipa-data-pager-ui",
+                  "targets" : [
+                    "ipa-data-pager-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-data-pager-ui",
+                  "name" : "ipa-data-pager-ui"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaSwiftUIView.git",
-      "summary": "Custom SwiftUI view components"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaDownloadManager\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaDownloadManager\/master\/README.md",
+      "summary" : "iOS utility library IPaDownloadManager",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaDownloadManager.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-download-manager",
+              "products" : [
+                {
+                  "name" : "ipa-download-manager",
+                  "targets" : [
+                    "ipa-download-manager"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-download-manager",
+                  "name" : "ipa-download-manager"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.4.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-download-manager",
+              "products" : [
+                {
+                  "name" : "ipa-download-manager",
+                  "targets" : [
+                    "ipa-download-manager"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-download-manager",
+                  "name" : "ipa-download-manager"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-download-manager",
+              "products" : [
+                {
+                  "name" : "ipa-download-manager",
+                  "targets" : [
+                    "ipa-download-manager"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-download-manager",
+                  "name" : "ipa-download-manager"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-download-manager",
+              "products" : [
+                {
+                  "name" : "ipa-download-manager",
+                  "targets" : [
+                    "ipa-download-manager"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-download-manager",
+                  "name" : "ipa-download-manager"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-download-manager",
+              "products" : [
+                {
+                  "name" : "ipa-download-manager",
+                  "targets" : [
+                    "ipa-download-manager"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-download-manager",
+                  "name" : "ipa-download-manager"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaSecurity.git",
-      "summary": "Security utilities and encryption tools"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaFBKit\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaFBKit\/master\/README.md",
+      "summary" : "iOS utility library IPaFBKit",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaFBKit.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-fb-kit",
+              "products" : [
+                {
+                  "name" : "ipa-fb-kit",
+                  "targets" : [
+                    "ipa-fb-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-fb-kit",
+                  "name" : "ipa-fb-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-fb-kit",
+              "products" : [
+                {
+                  "name" : "ipa-fb-kit",
+                  "targets" : [
+                    "ipa-fb-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-fb-kit",
+                  "name" : "ipa-fb-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-fb-kit",
+              "products" : [
+                {
+                  "name" : "ipa-fb-kit",
+                  "targets" : [
+                    "ipa-fb-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-fb-kit",
+                  "name" : "ipa-fb-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-fb-kit",
+              "products" : [
+                {
+                  "name" : "ipa-fb-kit",
+                  "targets" : [
+                    "ipa-fb-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-fb-kit",
+                  "name" : "ipa-fb-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-fb-kit",
+              "products" : [
+                {
+                  "name" : "ipa-fb-kit",
+                  "targets" : [
+                    "ipa-fb-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-fb-kit",
+                  "name" : "ipa-fb-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaIndicator.git",
-      "summary": "Loading indicators and progress views"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaFileCache\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaFileCache\/master\/README.md",
+      "summary" : "iOS utility library IPaFileCache",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaFileCache.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-file-cache",
+              "products" : [
+                {
+                  "name" : "ipa-file-cache",
+                  "targets" : [
+                    "ipa-file-cache"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-file-cache",
+                  "name" : "ipa-file-cache"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-file-cache",
+              "products" : [
+                {
+                  "name" : "ipa-file-cache",
+                  "targets" : [
+                    "ipa-file-cache"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-file-cache",
+                  "name" : "ipa-file-cache"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-file-cache",
+              "products" : [
+                {
+                  "name" : "ipa-file-cache",
+                  "targets" : [
+                    "ipa-file-cache"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-file-cache",
+                  "name" : "ipa-file-cache"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
     },
     {
-      "url": "https://github.com/ipapamagic/IPaImageURLLoader.git",
-      "summary": "Asynchronous image loading from URLs"
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaFlickr\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaFlickr\/master\/README.md",
+      "summary" : "iOS utility library IPaFlickr",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaFlickr.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-flickr",
+              "products" : [
+                {
+                  "name" : "ipa-flickr",
+                  "targets" : [
+                    "ipa-flickr"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-flickr",
+                  "name" : "ipa-flickr"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-flickr",
+              "products" : [
+                {
+                  "name" : "ipa-flickr",
+                  "targets" : [
+                    "ipa-flickr"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-flickr",
+                  "name" : "ipa-flickr"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-flickr",
+              "products" : [
+                {
+                  "name" : "ipa-flickr",
+                  "targets" : [
+                    "ipa-flickr"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-flickr",
+                  "name" : "ipa-flickr"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaImagePreviewer\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaImagePreviewer\/master\/README.md",
+      "summary" : "iOS utility library IPaImagePreviewer",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaImagePreviewer.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "4.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "4.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "4.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.3"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.2"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-image-previewer",
+              "products" : [
+                {
+                  "name" : "ipa-image-previewer",
+                  "targets" : [
+                    "ipa-image-previewer"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-previewer",
+                  "name" : "ipa-image-previewer"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaImageTool\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaImageTool\/master\/README.md",
+      "summary" : "iOS utility library IPaImageTool",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaImageTool.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.6.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.6.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.5"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.4"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-image-tool",
+              "products" : [
+                {
+                  "name" : "ipa-image-tool",
+                  "targets" : [
+                    "ipa-image-tool"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-image-tool",
+                  "name" : "ipa-image-tool"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaImgur\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaImgur\/master\/README.md",
+      "summary" : "iOS utility library IPaImgur",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaImgur.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-imgur",
+              "products" : [
+                {
+                  "name" : "ipa-imgur",
+                  "targets" : [
+                    "ipa-imgur"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-imgur",
+                  "name" : "ipa-imgur"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-imgur",
+              "products" : [
+                {
+                  "name" : "ipa-imgur",
+                  "targets" : [
+                    "ipa-imgur"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-imgur",
+                  "name" : "ipa-imgur"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-imgur",
+              "products" : [
+                {
+                  "name" : "ipa-imgur",
+                  "targets" : [
+                    "ipa-imgur"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-imgur",
+                  "name" : "ipa-imgur"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaIndicator\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaIndicator\/master\/README.md",
+      "summary" : "iOS utility library IPaIndicator",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaIndicator.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "4.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "4.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.4"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.3"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.2"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-indicator",
+              "products" : [
+                {
+                  "name" : "ipa-indicator",
+                  "targets" : [
+                    "ipa-indicator"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-indicator",
+                  "name" : "ipa-indicator"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaInfiniteScrollController\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaInfiniteScrollController\/master\/README.md",
+      "summary" : "iOS utility library IPaInfiniteScrollController",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaInfiniteScrollController.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-infinite-scroll-controller",
+              "products" : [
+                {
+                  "name" : "ipa-infinite-scroll-controller",
+                  "targets" : [
+                    "ipa-infinite-scroll-controller"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-infinite-scroll-controller",
+                  "name" : "ipa-infinite-scroll-controller"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-infinite-scroll-controller",
+              "products" : [
+                {
+                  "name" : "ipa-infinite-scroll-controller",
+                  "targets" : [
+                    "ipa-infinite-scroll-controller"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-infinite-scroll-controller",
+                  "name" : "ipa-infinite-scroll-controller"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaKeyChain\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaKeyChain\/master\/README.md",
+      "summary" : "iOS utility library IPaKeyChain",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaKeyChain.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-key-chain",
+              "products" : [
+                {
+                  "name" : "ipa-key-chain",
+                  "targets" : [
+                    "ipa-key-chain"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-key-chain",
+                  "name" : "ipa-key-chain"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.4.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-key-chain",
+              "products" : [
+                {
+                  "name" : "ipa-key-chain",
+                  "targets" : [
+                    "ipa-key-chain"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-key-chain",
+                  "name" : "ipa-key-chain"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-key-chain",
+              "products" : [
+                {
+                  "name" : "ipa-key-chain",
+                  "targets" : [
+                    "ipa-key-chain"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-key-chain",
+                  "name" : "ipa-key-chain"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-key-chain",
+              "products" : [
+                {
+                  "name" : "ipa-key-chain",
+                  "targets" : [
+                    "ipa-key-chain"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-key-chain",
+                  "name" : "ipa-key-chain"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-key-chain",
+              "products" : [
+                {
+                  "name" : "ipa-key-chain",
+                  "targets" : [
+                    "ipa-key-chain"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-key-chain",
+                  "name" : "ipa-key-chain"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-key-chain",
+              "products" : [
+                {
+                  "name" : "ipa-key-chain",
+                  "targets" : [
+                    "ipa-key-chain"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-key-chain",
+                  "name" : "ipa-key-chain"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-key-chain",
+              "products" : [
+                {
+                  "name" : "ipa-key-chain",
+                  "targets" : [
+                    "ipa-key-chain"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-key-chain",
+                  "name" : "ipa-key-chain"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaLog\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaLog\/master\/README.md",
+      "summary" : "iOS utility library IPaLog",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaLog.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-log",
+              "products" : [
+                {
+                  "name" : "ipa-log",
+                  "targets" : [
+                    "ipa-log"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-log",
+                  "name" : "ipa-log"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.1.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-log",
+              "products" : [
+                {
+                  "name" : "ipa-log",
+                  "targets" : [
+                    "ipa-log"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-log",
+                  "name" : "ipa-log"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-log",
+              "products" : [
+                {
+                  "name" : "ipa-log",
+                  "targets" : [
+                    "ipa-log"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-log",
+                  "name" : "ipa-log"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-log",
+              "products" : [
+                {
+                  "name" : "ipa-log",
+                  "targets" : [
+                    "ipa-log"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-log",
+                  "name" : "ipa-log"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-log",
+              "products" : [
+                {
+                  "name" : "ipa-log",
+                  "targets" : [
+                    "ipa-log"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-log",
+                  "name" : "ipa-log"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-log",
+              "products" : [
+                {
+                  "name" : "ipa-log",
+                  "targets" : [
+                    "ipa-log"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-log",
+                  "name" : "ipa-log"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-log",
+              "products" : [
+                {
+                  "name" : "ipa-log",
+                  "targets" : [
+                    "ipa-log"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-log",
+                  "name" : "ipa-log"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaMarqueeView\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaMarqueeView\/master\/README.md",
+      "summary" : "iOS utility library IPaMarqueeView",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaMarqueeView.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-marquee-view",
+              "products" : [
+                {
+                  "name" : "ipa-marquee-view",
+                  "targets" : [
+                    "ipa-marquee-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-marquee-view",
+                  "name" : "ipa-marquee-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-marquee-view",
+              "products" : [
+                {
+                  "name" : "ipa-marquee-view",
+                  "targets" : [
+                    "ipa-marquee-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-marquee-view",
+                  "name" : "ipa-marquee-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-marquee-view",
+              "products" : [
+                {
+                  "name" : "ipa-marquee-view",
+                  "targets" : [
+                    "ipa-marquee-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-marquee-view",
+                  "name" : "ipa-marquee-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaPageController\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaPageController\/master\/README.md",
+      "summary" : "iOS utility library IPaPageController",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaPageController.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-page-controller",
+              "products" : [
+                {
+                  "name" : "ipa-page-controller",
+                  "targets" : [
+                    "ipa-page-controller"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-page-controller",
+                  "name" : "ipa-page-controller"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-page-controller",
+              "products" : [
+                {
+                  "name" : "ipa-page-controller",
+                  "targets" : [
+                    "ipa-page-controller"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-page-controller",
+                  "name" : "ipa-page-controller"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-page-controller",
+              "products" : [
+                {
+                  "name" : "ipa-page-controller",
+                  "targets" : [
+                    "ipa-page-controller"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-page-controller",
+                  "name" : "ipa-page-controller"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-page-controller",
+              "products" : [
+                {
+                  "name" : "ipa-page-controller",
+                  "targets" : [
+                    "ipa-page-controller"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-page-controller",
+                  "name" : "ipa-page-controller"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-page-controller",
+              "products" : [
+                {
+                  "name" : "ipa-page-controller",
+                  "targets" : [
+                    "ipa-page-controller"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-page-controller",
+                  "name" : "ipa-page-controller"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-page-controller",
+              "products" : [
+                {
+                  "name" : "ipa-page-controller",
+                  "targets" : [
+                    "ipa-page-controller"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-page-controller",
+                  "name" : "ipa-page-controller"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaPickerUI\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaPickerUI\/master\/README.md",
+      "summary" : "iOS utility library IPaPickerUI",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaPickerUI.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-picker-ui",
+              "products" : [
+                {
+                  "name" : "ipa-picker-ui",
+                  "targets" : [
+                    "ipa-picker-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-picker-ui",
+                  "name" : "ipa-picker-ui"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-picker-ui",
+              "products" : [
+                {
+                  "name" : "ipa-picker-ui",
+                  "targets" : [
+                    "ipa-picker-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-picker-ui",
+                  "name" : "ipa-picker-ui"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-picker-ui",
+              "products" : [
+                {
+                  "name" : "ipa-picker-ui",
+                  "targets" : [
+                    "ipa-picker-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-picker-ui",
+                  "name" : "ipa-picker-ui"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-picker-ui",
+              "products" : [
+                {
+                  "name" : "ipa-picker-ui",
+                  "targets" : [
+                    "ipa-picker-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-picker-ui",
+                  "name" : "ipa-picker-ui"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaSecurity\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaSecurity\/master\/README.md",
+      "summary" : "iOS utility library IPaSecurity",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaSecurity.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "4.1.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "4.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-security",
+              "products" : [
+                {
+                  "name" : "ipa-security",
+                  "targets" : [
+                    "ipa-security"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-security",
+                  "name" : "ipa-security"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaStoreKit\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaStoreKit\/master\/README.md",
+      "summary" : "iOS utility library IPaStoreKit",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaStoreKit.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "4.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-store-kit",
+              "products" : [
+                {
+                  "name" : "ipa-store-kit",
+                  "targets" : [
+                    "ipa-store-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-store-kit",
+                  "name" : "ipa-store-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaSwiftUIHelper\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaSwiftUIHelper\/master\/README.md",
+      "summary" : "iOS utility library IPaSwiftUIHelper",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaSwiftUIHelper.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-swift-ui-helper",
+              "products" : [
+                {
+                  "name" : "ipa-swift-ui-helper",
+                  "targets" : [
+                    "ipa-swift-ui-helper"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-swift-ui-helper",
+                  "name" : "ipa-swift-ui-helper"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-swift-ui-helper",
+              "products" : [
+                {
+                  "name" : "ipa-swift-ui-helper",
+                  "targets" : [
+                    "ipa-swift-ui-helper"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-swift-ui-helper",
+                  "name" : "ipa-swift-ui-helper"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaSwiftUIView\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaSwiftUIView\/master\/README.md",
+      "summary" : "iOS utility library IPaSwiftUIView",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaSwiftUIView.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-swift-ui-view",
+              "products" : [
+                {
+                  "name" : "ipa-swift-ui-view",
+                  "targets" : [
+                    "ipa-swift-ui-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-swift-ui-view",
+                  "name" : "ipa-swift-ui-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-swift-ui-view",
+              "products" : [
+                {
+                  "name" : "ipa-swift-ui-view",
+                  "targets" : [
+                    "ipa-swift-ui-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-swift-ui-view",
+                  "name" : "ipa-swift-ui-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaTokenView\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaTokenView\/master\/README.md",
+      "summary" : "iOS utility library IPaTokenView",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaTokenView.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-token-view",
+              "products" : [
+                {
+                  "name" : "ipa-token-view",
+                  "targets" : [
+                    "ipa-token-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-token-view",
+                  "name" : "ipa-token-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-token-view",
+              "products" : [
+                {
+                  "name" : "ipa-token-view",
+                  "targets" : [
+                    "ipa-token-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-token-view",
+                  "name" : "ipa-token-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-token-view",
+              "products" : [
+                {
+                  "name" : "ipa-token-view",
+                  "targets" : [
+                    "ipa-token-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-token-view",
+                  "name" : "ipa-token-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-token-view",
+              "products" : [
+                {
+                  "name" : "ipa-token-view",
+                  "targets" : [
+                    "ipa-token-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-token-view",
+                  "name" : "ipa-token-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-token-view",
+              "products" : [
+                {
+                  "name" : "ipa-token-view",
+                  "targets" : [
+                    "ipa-token-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-token-view",
+                  "name" : "ipa-token-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.7",
+          "manifests" : {
+            "5.7" : {
+              "packageName" : "ipa-token-view",
+              "products" : [
+                {
+                  "name" : "ipa-token-view",
+                  "targets" : [
+                    "ipa-token-view"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-token-view",
+                  "name" : "ipa-token-view"
+                }
+              ],
+              "toolsVersion" : "5.7"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaUIKitHelper\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaUIKitHelper\/master\/README.md",
+      "summary" : "iOS utility library IPaUIKitHelper",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaUIKitHelper.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-ui-kit-helper",
+              "products" : [
+                {
+                  "name" : "ipa-ui-kit-helper",
+                  "targets" : [
+                    "ipa-ui-kit-helper"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-ui-kit-helper",
+                  "name" : "ipa-ui-kit-helper"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-ui-kit-helper",
+              "products" : [
+                {
+                  "name" : "ipa-ui-kit-helper",
+                  "targets" : [
+                    "ipa-ui-kit-helper"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-ui-kit-helper",
+                  "name" : "ipa-ui-kit-helper"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-ui-kit-helper",
+              "products" : [
+                {
+                  "name" : "ipa-ui-kit-helper",
+                  "targets" : [
+                    "ipa-ui-kit-helper"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-ui-kit-helper",
+                  "name" : "ipa-ui-kit-helper"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-ui-kit-helper",
+              "products" : [
+                {
+                  "name" : "ipa-ui-kit-helper",
+                  "targets" : [
+                    "ipa-ui-kit-helper"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-ui-kit-helper",
+                  "name" : "ipa-ui-kit-helper"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-ui-kit-helper",
+              "products" : [
+                {
+                  "name" : "ipa-ui-kit-helper",
+                  "targets" : [
+                    "ipa-ui-kit-helper"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-ui-kit-helper",
+                  "name" : "ipa-ui-kit-helper"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaURLResourceUI\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaURLResourceUI\/master\/README.md",
+      "summary" : "iOS utility library IPaURLResourceUI",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaURLResourceUI.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "6.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "5.4.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "5.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "5.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "5.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "5.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "4.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.4"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.3"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.2"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "ipa-url-resource-ui",
+              "products" : [
+                {
+                  "name" : "ipa-url-resource-ui",
+                  "targets" : [
+                    "ipa-url-resource-ui"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-url-resource-ui",
+                  "name" : "ipa-url-resource-ui"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaVRKit\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaVRKit\/master\/README.md",
+      "summary" : "iOS utility library IPaVRKit",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaVRKit.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-vr-kit",
+              "products" : [
+                {
+                  "name" : "ipa-vr-kit",
+                  "targets" : [
+                    "ipa-vr-kit"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-vr-kit",
+                  "name" : "ipa-vr-kit"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "1.0.0"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaXMLSection\/master\/LICENSE"
+      },
+      "readmeURL" : "https:\/\/raw.githubusercontent.com\/ipapamagic\/IPaXMLSection\/master\/README.md",
+      "summary" : "iOS utility library IPaXMLSection",
+      "url" : "https:\/\/github.com\/ipapamagic\/IPaXMLSection.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-xml-section",
+              "products" : [
+                {
+                  "name" : "ipa-xml-section",
+                  "targets" : [
+                    "ipa-xml-section"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-xml-section",
+                  "name" : "ipa-xml-section"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.2.0"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-xml-section",
+              "products" : [
+                {
+                  "name" : "ipa-xml-section",
+                  "targets" : [
+                    "ipa-xml-section"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-xml-section",
+                  "name" : "ipa-xml-section"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.1"
+        },
+        {
+          "defaultToolsVersion" : "5.6",
+          "manifests" : {
+            "5.6" : {
+              "packageName" : "ipa-xml-section",
+              "products" : [
+                {
+                  "name" : "ipa-xml-section",
+                  "targets" : [
+                    "ipa-xml-section"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "ipa-xml-section",
+                  "name" : "ipa-xml-section"
+                }
+              ],
+              "toolsVersion" : "5.6"
+            }
+          },
+          "summary" : "",
+          "version" : "2.0"
+        }
+      ]
     }
   ]
 }

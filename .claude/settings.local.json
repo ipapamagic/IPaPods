@@ -14,7 +14,9 @@
       "Bash(swift package-collection:*)",
       "Bash(chmod:*)",
       "Bash(./test_single_package.swift)",
-      "Bash(./debug_collection.swift)"
+      "Bash(./debug_collection.swift)",
+      "WebSearch",
+      "WebFetch(domain:swiftpackageindex.com)"
     ],
     "deny": [],
     "ask": []

@@ -1,0 +1,6 @@
+private_rsa.pem
+swift_package.cer
+package-collection-sign
+swift_package.pem
+swift_package_rsa.pem
+AppleRootCA.cer
